@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Renata Valentim
 
 🎓 **MBA in Data Science and Analytics (USP ESALQ)** | 💊 **Pharmacist with expertise in Pharmacovigilance and Patient Safety**  
-📍 São Paulo, Brazil | 📧 renata.valentim89@gmail.com | [LinkedIn](https://www.linkedin.com/in/renata-valentim) | [GitHub](https://github.com/renataovalentim) | [CV](Renata_Valentim_CV.pdf)
+📍 São Paulo, Brazil | 📧 renata.valentim89@gmail.com | [LinkedIn](https://www.linkedin.com/in/renata-valentim) | [GitHub](https://github.com/renataovalentim) | [CV](CV_Renata Valentim.pdf)
 
 ---
 
