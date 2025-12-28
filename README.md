@@ -54,7 +54,11 @@ Passionate about applying data science to healthcare, leveraging machine learnin
 ## 🎯 Featured Projects
 - **MBA Thesis (USP ESALQ):** Predictive model to identify the best treatment approach for mental health disorders.  
 - **Machine Learning Notebooks:** Exploratory data analysis and predictive modeling in healthcare.  
-- **Power BI Dashboards:** Patient safety and pharmacovigilance indicators.  
+- **Power BI Dashboards:** Patient safety and pharmacovigilance indicators.
+
+---
+## 📄 Curriculum Vitae
+You can download my CV here: [Renata Valentim - CV (PDF)](Renata_Valentim_CV.pdf)
 
 ---
 
