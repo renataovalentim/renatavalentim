@@ -8,8 +8,7 @@
 ## 🚀 About Me
 Pharmacovigilance professional with solid experience in patient safety strategy, risk management, and regulatory compliance in clinical studies and post-marketing.  
 
-Passionate about **data science applied to healthcare**, exploring how **machine learning** and **analytics** can support clinical decision-making and personalize mental health treatments.
-
+Passionate about applying data science to healthcare, leveraging machine learning and analytics to support clinical decision-making, optimize patient safety, and improve treatment outcomes across diverse medical areas.
 ---
 
 ## 🛠️ Key Skills
@@ -47,7 +46,8 @@ Passionate about **data science applied to healthcare**, exploring how **machine
 ## 🌍 Languages
 - Portuguese: Native  
 - English: Fluent  
-- Spanish: Advanced  
+- Spanish: Advanced
+- Italian: Basic
 
 ---
 
