@@ -7,7 +7,6 @@
 
 ## 🚀 About Me
 Pharmacovigilance professional with solid experience in patient safety strategy, risk management, and regulatory compliance in clinical studies and post-marketing.  
-Currently working as **Sr. Drug Safety Associate at ICON PLC**, leading clinical study monitoring, adverse event submissions, and process optimization.  
 
 Passionate about **data science applied to healthcare**, exploring how **machine learning** and **analytics** can support clinical decision-making and personalize mental health treatments.
 
